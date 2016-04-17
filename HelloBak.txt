@@ -1,0 +1,2 @@
+This repository is currect.
+Create in github first, then clone to local.
